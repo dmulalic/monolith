@@ -1,0 +1,2 @@
+# monolith
+Monolithic Docker container
